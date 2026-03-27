@@ -9,6 +9,7 @@ layout: guide
 </div>
 
 <div class="links">
+  <a href="#johnmoney">JohnMoney</a> |
   <a href="#ceikry">Ceikry</a> |
   <a href="#ryan">Ryan</a> |
   <a href="#woah">Woahscam</a> |
@@ -26,8 +27,19 @@ layout: guide
 
 ### The Admins
 
-Key members of 2009scape.
+Key members of TacoShack.
 Either have been around the longest or they have gained a per say for how much they have put into the project.
+
+<a id="JohnMoney"></a>
+
+{% include image.html
+  url="/site/2009scape-resources/img/game_guide/staff_images/ceikry.webp"
+  style="style='border:black 1px solid; border-radius: 50%;' width='100'"
+%}
+
+**John Money**
+
+&nbsp; I am just out here being king asshole. Thanks Ceikry. <3
 
 <a id="ceikry"></a>
 
