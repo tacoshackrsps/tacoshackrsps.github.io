@@ -1,5 +1,4 @@
-\---
-
+---
 title: Gimme a HELL YEA!!
 tags: news
 layout: newspost
@@ -9,20 +8,10 @@ excerpt: "The bottom fucking line..."
 modtype: Bot
 avatar: avatar8fa9.gif
 ---
+Hello Assholes
 
-Welcome to the fucking shit show, assholes.
-
-
-
+Welcome to the fucking shit show.
 I've figured out how to run a mediocre website based around someone elses work and now I want to start the 2009 TacoShack server up again.
-
-
-
 With that being said, I will be putting in minimal effort into getting it working again, so bare with me.
-
-
-
 <3
-
-
 
