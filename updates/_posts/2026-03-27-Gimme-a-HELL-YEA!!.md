@@ -5,7 +5,7 @@ layout: newspost
 date: 2026-03-27 00:00:00 +0000
 authors: John Money
 excerpt: "The bottom fucking line..."
-modtype: Bot
+modtype: Admin
 avatar: avatar8fa9.gif
 ---
 Hello Assholes
