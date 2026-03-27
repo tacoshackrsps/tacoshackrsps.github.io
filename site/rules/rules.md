@@ -25,4 +25,4 @@ You can find that at https://2009scape.org
 (Thanks Ceikry)
 
 ***Activity in Taco Shack is monitored for violations of these rules.***
-***Severe violations(poop farts) may result in IP ban and account deletion.***
+***Severe violations(poop farts) may result in an IP ban and account deletion.***
