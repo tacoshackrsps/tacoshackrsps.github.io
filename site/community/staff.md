@@ -27,7 +27,7 @@ layout: guide
 
 ### The Admins
 
-Key members of TacoShack.
+Key members of Taco Shack.
 Either have been around the longest or they have gained a per say for how much they have put into the project.
 
 <a id="JohnMoney"></a>
