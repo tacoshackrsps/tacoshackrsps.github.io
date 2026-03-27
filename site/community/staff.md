@@ -9,7 +9,7 @@ layout: guide
 </div>
 
 <div class="links">
-  <a href="#johnmoney">JohnMoney</a> |
+  <a href="#johnmoney">John Money</a> |
   <a href="#ceikry">Ceikry</a> |
   <a href="#ryan">Ryan</a> |
   <a href="#woah">Woahscam</a> |
