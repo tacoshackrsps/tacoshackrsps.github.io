@@ -8,7 +8,7 @@ excerpt: "The bottom fucking line..."
 modtype: Admin
 avatar: avatar0150.gif
 ---
-Hello Assholes
+Hello Assholes,
 
 Welcome to the fucking shit show.
 
