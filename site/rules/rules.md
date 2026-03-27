@@ -16,7 +16,7 @@ People have noses connected directly to their face and don't want to huff bug sh
 
 Just message John Money and be nice or fuck off.
 
-### 3. No solicition another server.
+### 3. No solicition of other servers.
 
 We do not support any any other server aside from the actual 2009scape. (Thanks Ceikry)
 Do not mention them here.
