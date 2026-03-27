@@ -11,7 +11,10 @@ avatar: avatar0150.gif
 Hello Assholes
 
 Welcome to the fucking shit show.
+
 I've figured out how to run a mediocre website based around someone elses work and now I want to start the 2009 TacoShack server up again.
+
 With that being said, I will be putting in minimal effort into getting it working again, so bare with me.
+
 <3
 
