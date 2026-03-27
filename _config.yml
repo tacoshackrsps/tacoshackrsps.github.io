@@ -1,4 +1,4 @@
-title: TacoShack
+title: Taco Shack
 encoding: UTF-8
 exclude: [serve.bat, serve.sh, parse.py, README.md]
 include: [".well-known"]
