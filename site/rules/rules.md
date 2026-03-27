@@ -18,7 +18,11 @@ Just message John Money and be nice or fuck off.
 
 ### 3. No solicition of other servers.
 
-We do not support any any other server aside from the actual 2009scape. (Thanks Ceikry)
+We do not support any other server aside from the actual 2009scape.
+
+You can find that at https://2009scape.org
+
+(Thanks Ceikry)
 Do not mention them here.
 Do not recruit.
 Likewise, do not ask for paid services and do not ask to donate; this is a fair and free server.
