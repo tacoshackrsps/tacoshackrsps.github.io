@@ -3,7 +3,7 @@
 title: Major Minor Updates
 tags: news
 layout: newspost
-date: 2026-03-27 00:00:00 +0000
+date: 2026-03-28 00:00:00 +0000
 authors: John Money
 excerpt: "Chat GPT has struck..."
 modtype: Admin
