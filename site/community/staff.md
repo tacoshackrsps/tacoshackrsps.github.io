@@ -30,19 +30,4 @@ Either have been around the longest or they have gained a per say for how much t
 
 &nbsp; I am just out here being king asshole. Thanks Ceikry. <3
 
-<a id="ceikry"></a>
 
-{% include image.html
-  url="/site/2009scape-resources/img/game_guide/staff_images/ceikry.webp"
-  style="style='border:black 1px solid; border-radius: 50%;' width='100'"
-%}
-
-
-
-
-We're here to build an amazing server and help anyone with any questions they may have of our server.
-Do not ping a developer unless you are unable to login.
-
-Thanks -
-
-Staff Team
