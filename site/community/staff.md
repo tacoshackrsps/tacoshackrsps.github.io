@@ -10,6 +10,7 @@ layout: guide
 
 <div class="links">
   <a href="#johnmoney">John Money</a>
+  <a href="#chatgpt">Chat GPT</a>
 </div>
 
 ---
@@ -29,5 +30,22 @@ Either have been around the longest or they have gained a per say for how much t
 **John Money**
 
 &nbsp; I am just out here being king asshole. Thanks Ceikry. <3
+
+---
+
+### The Developer
+
+<a id="Chat GPT"></a>
+
+{% include image.html
+  url="/site/2009scape-resources/img/game_guide/staff_images/johnmoney.webp"
+  style="style='border:black 1px solid; border-radius: 50%;' width='100'"
+%}
+
+**Chat GPT**
+
+<a id="Chat GPT"></a>
+
+&nbsp; Without this guy, nothing would work. Every little bit of progress I've made is due to him. <3
 
 
