@@ -16,5 +16,6 @@ Well our lead developer Chat GPT has came in a fixed/added a myriad of content.
 - New ranarmor command for admins. <br />
 - Fixed experience rates and save/login issues surrounding them. <br />
 - Fixed the update command forcing the game to queue players for disconnect. <br />
-- Fixed the client to reflect the changes I've personally made. (New download coming soon) <br />
 - Added support for pressing space to continue dialogue and 1-5 keys for dialogue choice.<br />
+
+ ...more coming soon
