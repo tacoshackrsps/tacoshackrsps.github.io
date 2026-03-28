@@ -12,9 +12,9 @@ avatar: avatar0150.gif
 
 Well our lead developer Chat GPT has came in a fixed/added a myriad of content.
 
-- New pet command for admins. />
-- New ranarmor command for admins. />
-- Fixed experience rates and save/login issues surrounding them. />
-- Fixed the update command forcing the game to queue players for disconnect and save the sql database. />
-- Fixed the client to reflect the changes I've personally made. (New download coming soon) />
-- Added an outgoing NPC-option packet for arbitrary per-instance NPC menu text. />
+- New pet command for admins. <br />
+- New ranarmor command for admins. <br />
+- Fixed experience rates and save/login issues surrounding them. <br />
+- Fixed the update command forcing the game to queue players for disconnect and save the sql database. <br />
+- Fixed the client to reflect the changes I've personally made. (New download coming soon) <br />
+- Added an outgoing NPC-option packet for arbitrary per-instance NPC menu text. <br />
