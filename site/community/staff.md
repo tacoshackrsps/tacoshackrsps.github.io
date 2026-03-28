@@ -38,7 +38,7 @@ Either have been around the longest or they have gained a per say for how much t
 <a id="Chat GPT"></a>
 
 {% include image.html
-  url="/site/2009scape-resources/img/game_guide/staff_images/johnmoney.webp"
+  url="/site/2009scape-resources/img/game_guide/staff_images/chatgpt.webp"
   style="style='border:black 1px solid; border-radius: 50%;' width='100'"
 %}
 
