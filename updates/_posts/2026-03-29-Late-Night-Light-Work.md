@@ -16,7 +16,7 @@ Chat GPT and I have struck again.
     You must be under total level 50 and have less than 10 quest points to do so.
   
 - Automatic global countdowns have been added to lost-bet drop parties.<b />
-    Drop parties are done every hour, only if their is lost-bet gold inside the chest.
+    Drop parties are done every hour, lost-bet gold is separate from manual level drop parties.
   
 - Fixed the "Use" option on all bank booths to act as they normally would in OSRS.<b />
 
