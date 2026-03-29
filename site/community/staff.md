@@ -9,7 +9,7 @@ layout: guide
 </div>
 
 <div class="links">
-  <a href="#johnmoney">John Money</a>
+  <a href="#johnmoney">John Money</a> | 
   <a href="#chatgpt">Chat GPT</a>
 </div>
 
