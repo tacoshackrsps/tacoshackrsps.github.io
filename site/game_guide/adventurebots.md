@@ -1,5 +1,5 @@
 ---
-title: 2009Scape - Adventure bots
+title: Taco Shack - Adventure bots
 tags: game_guide
 layout: guide
 ---
