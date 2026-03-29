@@ -19,5 +19,6 @@ Well our lead developer Chat GPT has came in a fixed/added a myriad of content.
 - Added support for pressing space to continue dialogue and 1-5 keys for dialogue choice.<br />
 - Added a toggle button to save login information on the login screen.<br />
 - Added an option to gamble gold with party pete in the falador party room.<br />
+- Added automatic lost-bet drop parties. Half of all lost wagers go into the drop chest.<br />
 
  ...more coming soon
