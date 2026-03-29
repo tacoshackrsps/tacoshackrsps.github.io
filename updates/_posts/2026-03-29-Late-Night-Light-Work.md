@@ -23,3 +23,4 @@ Chat GPT and I have struck again.
 I plan to get a host for the game server and release a playable client soon.
 Stay tuned for more updates. Post suggestions on the forum or in the discord. I could use ideas.
 Planning to start working on quests that aren't already implemented. Every F2P quest is ingame.
+I am also working on my own highscore API to mimic what has been done already, thanks Chat GPT.
