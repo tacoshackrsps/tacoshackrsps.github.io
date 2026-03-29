@@ -8,10 +8,7 @@ layout: guide
   <span class="headertitleleft"><span class="headertitleright">Introduction</span></span>
 </div>
 
-In 2023, unlike the old days before, you will need to get client plugins to do things we once could do without.
-In your launcher, you will see options to install plugins.
-The plugin that you are going to want for the majority of these will be "BasicInputQoL".
-To learn more about the Client Plugins, click [here](./client-plugins.html).
+Taco Shack is loaded with a bunch of QoL addons. They come pre-bundled in the client.
 
 **⚔️ Zooming In & Out**
 
@@ -20,6 +17,14 @@ To zoom in and out, you must hold the shift key and then use the mousewheel.
 **⚔️ Shift-Drop**
 
 For dropping items, make sure you hold the shift key and then click on the item.
+
+**⚔️ Space to skip**
+
+You can press space to continue dialogue with NPCs.
+
+**⚔️ Dialogue Key Selection**
+
+Selecting dialogue options has never been easier, press 1-5 to select any option.
 
 **⚔️ Camera Rotation**
 
