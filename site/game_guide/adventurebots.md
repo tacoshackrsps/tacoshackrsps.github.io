@@ -9,7 +9,7 @@ Everytime you tried to chop trees one would be there to steal it.
 While they were quite annoying they did provide a lot of raw material to the ge that you might have believed players had collected but the bulk of it was thanks to bots. 
 Botting did make the game feel a lot less lonely due to collecting all the loot but never speaking to with you or they out right just out ranked you in the leaderboards. 
 
-Luckily, in 2009scape, you do not have this problem.
+Luckily, in Taco Shack, you do not have this problem.
 The developers have created these amazing bots called adventure bots.
 They are server sided bots that go out on **Adventures** as their name suggests.
 What is really cool is they sell items they collect on their adventures to the grand exchange.
