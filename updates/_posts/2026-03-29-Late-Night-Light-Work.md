@@ -13,7 +13,7 @@ avatar: avatar0150.gif
 Chat GPT and I have struck again.
 
 - Hans now tells you your account age upon request and changes ironman status.<b />
-    You must be under total level 50 and have less than 10 quest points to do so.
+    You must be under total level 50 and have less than 10 quest points to change ironman satus.
   
 - Automatic global countdowns have been added to lost-bet drop parties.<b />
     Drop parties are done every hour, lost-bet gold is separate from manual level drop parties.
