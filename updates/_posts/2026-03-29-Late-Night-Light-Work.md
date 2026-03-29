@@ -14,8 +14,10 @@ Chat GPT and I have struck again.
 
 - Hans now tells you your account age upon request and changes ironman status.<b />
     You must be under total level 50 and have less than 10 quest points to do so.
+  
 - Automatic global countdowns have been added to lost-bet drop parties.<b />
     Drop parties are done every hour, only if their is lost-bet gold inside the chest.
+  
 - Fixed the "Use" option on all bank booths to act as they normally would in OSRS.<b />
 
 I plan to get a host for the game server and release a playable client soon.
