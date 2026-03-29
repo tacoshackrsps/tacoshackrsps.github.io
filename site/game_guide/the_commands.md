@@ -96,12 +96,13 @@ layout: guide
     <li> ::allmusic - Unlocks all music.</li>
     <li> ::allquest - Unlocks all quests.</li>
     <li> ::setslayerpoints : Sets the player's slayer points.</li>
-    <li> ::submit - Creates a new shooting star</li>
+    <li> ::submit - Creates a new shooting star.</li>
     <li> ::resetsprite - Resets the timer in which the sprite stays waiting.</li>
-    <li> ::setlevel - sets a skill to a specific level</li>
-    <li> ::update - updates the server </li>
+    <li> ::setlevel - sets a skill to a specific level.</li>
+    <li> ::update - updates the server.</li>
     <li> ::cancelupdate - cancels the update before the timner counts all the way down.</li>
-    <li> ::announce - creates an announcement in chat </li>
+    <li> ::announce - creates an announcement in chat.</li>
+    <li> ::forcelostbetdrop - forces a lost-bet drop party.</li>
   </ul>
 
   <br>
@@ -124,13 +125,10 @@ layout: guide
     <li>::mrboneswildride - Plays a funny animation off a player in a minecart repeating "I want to get off Mr. Bones Wild Ride" over and over again.</li>
     <li>::invis - makes you invisible to other players.</li>
     <li>::potato - gives a rotten potato</li>
+    <li>::pet - spawns an npc pet to follow you around</li>
+    <li>::petdismiss - dismisses your current pet</li>
   </ul>
 </ul>
 
-### Singleplayer Exclusive Commands
-(**Scripts must be set to true in your default.config**)
-
-- ::scripts - gives a list of botting scripts you can use.</li>
-- ::stopscript - stops the script you are running.</li>
 
 {% include further-help.html %}
