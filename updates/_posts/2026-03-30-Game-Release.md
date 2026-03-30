@@ -11,8 +11,10 @@ avatar: avatar0150.gif
 ---
 
 I have updated all links across the website to come with an official download for our client.
+
 You may now <b>play</b> Taco Shack! The game is hosted 24/7. If problems arise, please contact me.
-I've also provided a link down below. Enjoy the game and please report any/all bugs!
+
+  I've also provided a link down below. Enjoy the game and please report any/all bugs!
 
 Download <a href="https://drive.google.com/uc?export=download&id=1JM-Y5h8Q6VER8QrPNFlNZ-r1k46fc8xk"><b>here</b></a>.
 
