@@ -10,28 +10,11 @@
     </script>
 
     <div id="headImage"><a href="/" id="logo_select"></a>
-    <div id="player_no">
-  <span class="brandingColor">Taco Shack</span>: Reality made true by Chat GPT |
-  Players online: <span id="live-player-count">0</span>
-        </div>
+      <div id="player_no">
+        <span class="brandingColor">Taco Shack</span>: Reality made true by Chat GPT
       </div>
     </div>
     <div id="headOrangeBottom"></div>
-
-    <script type="text/javascript">
-      async function refreshPlayerCount() {
-        try {
-          const response = await fetch("https://157.151.216.205:8086/status", { cache: "no-store" });
-          const data = await response.json();
-          document.getElementById("live-player-count").textContent = data.online;
-        } catch (error) {
-          document.getElementById("live-player-count").textContent = "Offline";
-        }
-      }
-
-      refreshPlayerCount();
-      setInterval(refreshPlayerCount, 15000);
-    </script>
 
     <!-- End of Banner -->
     <div id="menubox">
