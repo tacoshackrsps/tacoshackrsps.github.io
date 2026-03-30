@@ -14,7 +14,7 @@ I have updated all links across the website to come with an official download fo
 
 You may now <b>play</b> Taco Shack! The game is hosted 24/7. If problems arise, please contact me.
 
-Highscores are not implemented yet, but I am working on an API to get them up and running soon.
+Highscores are not implemented yet, but I am working on an  API to get them up and running soon.
 
 I've also provided a link down below. Enjoy the game and please report any/all bugs!
 
